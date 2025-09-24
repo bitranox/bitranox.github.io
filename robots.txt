@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bitranox.github.io/sitemap.html
-Sitemap: https://bitranox.github.io/sitemap.txt
-Sitemap: https://bitranox.github.io/sitemap.xml
